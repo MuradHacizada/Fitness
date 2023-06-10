@@ -1,0 +1,2301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FittnessWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FittnessWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\README.md",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\css\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\css\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\documentation.html",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\arrow-down.gif",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\arrow-down.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\de.png",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\es.png",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\it.png",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\images\\flags\\it.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\index.html",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\js\\jquery-1.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\js\\jquery-1.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\js\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\js\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\Polyglot-Language-Switcher-master\\persist-license.txt",
+      "PackagePath": "staticwebassets\\assets\\Polyglot-Language-Switcher-master\\persist-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\README.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cro_CRO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cro_CRO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cro_CRO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cro_CRO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\base.html",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\base.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\css\\base.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\membermeister.png",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\membermeister.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\snapappointments.png",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\snapappointments.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\thermofisher.png",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\img\\logos\\thermofisher.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\js\\base.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\js\\base.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\nav.html",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\nav.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\custom_theme\\toc.html",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\custom_theme\\toc.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ar_AR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ar_AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-bg_BG.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-bg_BG.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cro_CRO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cro_CRO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cro_CRO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cro_CRO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cs_CZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-cs_CZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-da_DK.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-da_DK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-de_DE.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-de_DE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-en_US.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-en_US.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-es_CL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-es_CL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-eu.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fa_IR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fa_IR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fi_FI.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fi_FI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fr_FR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-fr_FR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-hu_HU.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-hu_HU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-id_ID.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-id_ID.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-it_IT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-it_IT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ko_KR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ko_KR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-lt_LT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-lt_LT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nb_NO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nb_NO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nl_NL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-nl_NL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pl_PL.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pl_PL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_BR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_PT.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-pt_PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ro_RO.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ro_RO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ru_RU.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ru_RU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sk_SK.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sk_SK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sl_SI.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sl_SI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sv_SE.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-sv_SE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-tr_TR.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-tr_TR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ua_UA.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-ua_UA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_CN.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_TW.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\dist\\js\\i18n\\defaults-zh_TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\examples.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\examples.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\index.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\index.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\methods.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\methods.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\docs\\options.md",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\docs\\options.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\docs\\mkdocs.yml",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\docs\\mkdocs.yml"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\less\\bootstrap-select.less",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\less\\bootstrap-select.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\sass\\bootstrap-select.scss",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\sass\\bootstrap-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\sass\\variables.scss",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\sass\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-select\\test.html",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-select\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-touch-spin\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-touch-spin\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap-touch-spin\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-touch-spin\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\.gitattributes",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\README.md",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\1_b.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\1_b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\1_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\1_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\2_b.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\2_b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\2_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\2_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\3_b.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\3_b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\3_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\3_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\4_b.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\4_b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\4_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\4_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\5_b.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\5_b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\5_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\5_s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\ajax.txt",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\ajax.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\iframe.html",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\iframe.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\demo\\index.html",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\demo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\lib\\jquery-1.10.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\lib\\jquery-1.10.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\lib\\jquery-1.9.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\lib\\jquery-1.9.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\lib\\jquery.mousewheel-3.0.6.pack.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\lib\\jquery.mousewheel-3.0.6.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\blank.gif",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\fancybox_buttons.png",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\fancybox_buttons.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-buttons.css",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-buttons.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-media.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-media.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-thumbs.css",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-thumbs.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\helpers\\jquery.fancybox-thumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\source\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fancyapps-fancyBox\\sprite.psd",
+      "PackagePath": "staticwebassets\\assets\\fancyapps-fancyBox\\sprite.psd"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\fonts\\ftc.eot",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\fonts\\ftc.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\fonts\\ftc.svg",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\fonts\\ftc.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\fonts\\ftc.ttf",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\fonts\\ftc.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\fonts\\ftc.woff",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\fonts\\ftc.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\fitness-care-icon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fitness-care-icon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\flaticon\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\flaticon\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\css\\mixins.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\mixins.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\css\\variables.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\variables.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\gmap.js",
+      "PackagePath": "staticwebassets\\assets\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-appear\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-appear\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_flat_10_000000_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_flat_10_000000_40x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\index.html",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4-backup\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_flat_10_000000_40x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_flat_10_000000_40x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\index.html",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-ui-1.11.4\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\jquery-ui-1.11.4\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\assets\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery.fitvids.js",
+      "PackagePath": "staticwebassets\\assets\\jquery.fitvids.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery.isotope.js",
+      "PackagePath": "staticwebassets\\assets\\jquery.isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\menuzord-animations.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\menuzord-animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\menuzord.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\menuzord.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-border-bottom.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-border-bottom.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-border-boxed.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-border-boxed.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-border-left.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-border-left.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-border-top-bottom.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-border-top-bottom.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-border-top.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-border-top.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-bottom-trace.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-bottom-trace.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-boxed.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-boxed.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-colored.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-colored.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-dark.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-gradient.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-gradient.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-rounded-boxed.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-rounded-boxed.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-shadow.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-shadow.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-strip.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-strip.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-subcolored.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-subcolored.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\css\\skins\\menuzord-top-bottom-boxed-border.css",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\css\\skins\\menuzord-top-bottom-boxed-border.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\menuzord\\js\\menuzord.js",
+      "PackagePath": "staticwebassets\\assets\\menuzord\\js\\menuzord.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\nouislider\\nouislider.css",
+      "PackagePath": "staticwebassets\\assets\\nouislider\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\nouislider\\nouislider.js",
+      "PackagePath": "staticwebassets\\assets\\nouislider\\nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\nouislider\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\assets\\nouislider\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\owl.carousel-2\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\owl.carousel-2\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\owl.carousel-2\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\owl.carousel-2\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\owl.carousel-2\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\owl.carousel-2\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\revolution\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\fb.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\ig.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\ig.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\post.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\post.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\revolution_slide1.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\revolution_slide1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\revolution_slide2.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\revolution_slide2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\tw.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\vm.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\vm.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\wc.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\wc.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\assets\\sources\\yt.png",
+      "PackagePath": "staticwebassets\\assets\\revolution\\assets\\sources\\yt.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\ares.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\ares.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\dione.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\dione.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\erinyen.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\erinyen.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\gyges.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\gyges.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\hades.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\hades.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\hebe.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\hebe.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\hephaistos.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\hephaistos.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\hermes.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\hermes.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\hesperiden.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\hesperiden.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\metis.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\metis.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\persephone.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\persephone.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\uranus.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\uranus.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation-skins\\zeus.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation-skins\\zeus.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\css\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\css\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\fonts\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\font-awesome\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\font-awesome\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\pe-icon-7-stroke\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\pe-icon-7-stroke\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\revicons\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\info.cfg",
+      "PackagePath": "staticwebassets\\assets\\revolution\\info.cfg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.actions.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.actions.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.migration.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.migration.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\extensions\\source\\revolution.extension.video.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\source\\revolution.extension.video.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\source\\index.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\source\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\source\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\source\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\source\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\source\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\js\\source\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\revolution\\js\\source\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\facebook\\class-facebook.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\facebook\\class-facebook.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\flickr\\class-flickr.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\flickr\\class-flickr.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\instagram\\class-instagram.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\instagram\\class-instagram.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\twitter\\RestApi.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\twitter\\RestApi.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\twitter\\class-twitter.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\twitter\\class-twitter.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\twitter\\connection\\Application.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\twitter\\connection\\Application.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\twitter\\connection\\User.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\twitter\\connection\\User.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\vimeo\\class-vimeo.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\vimeo\\class-vimeo.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\revolution\\php\\youtube\\class-youtube.php",
+      "PackagePath": "staticwebassets\\assets\\revolution\\php\\youtube\\class-youtube.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\assets\\waypoint.js",
+      "PackagePath": "staticwebassets\\assets\\waypoint.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FittnessWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FittnessWeb.props",
+      "PackagePath": "build\\FittnessWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FittnessWeb.props",
+      "PackagePath": "buildMultiTargeting\\FittnessWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FittnessWeb.props",
+      "PackagePath": "buildTransitive\\FittnessWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
