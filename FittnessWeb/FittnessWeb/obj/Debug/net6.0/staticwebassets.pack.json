@@ -2053,6 +2053,1738 @@
       "PackagePath": "staticwebassets\\assets\\waypoint.js"
     },
     {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\h3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\h3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\h3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\h3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v2-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v3-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\page-v3-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\page-v3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\blog-post\\single-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\class\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\img\\class\\popular-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\class\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\img\\class\\popular-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\class\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\img\\class\\popular-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\class\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\img\\class\\popular-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\experienced-trainer\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\experienced-trainer\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\experienced-trainer\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\experienced-trainer\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-192x192.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-36x36.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-36x36.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-48x48.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-48x48.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-72x72.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-96x96.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\android-icon-96x96.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-114x114.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-120x120.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-152x152.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-152x152.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-180x180.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-180x180.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-57x57.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-60x60.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-60x60.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-72x72.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-76x76.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-76x76.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon-precomposed.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\favicon-96x96.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\manifest.json",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\ms-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\ms-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\ms-icon-150x150.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\ms-icon-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\ms-icon-310x310.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\ms-icon-310x310.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\ms-icon-70x70.png",
+      "PackagePath": "staticwebassets\\img\\favicon-icons\\ms-icon-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\flag\\en.png",
+      "PackagePath": "staticwebassets\\img\\flag\\en.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\footer-bottom-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-bottom-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\footer-bottom-medium-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-bottom-medium-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\footer-bottom-mobile-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-bottom-mobile-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\footer-bottom-tablet-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-bottom-tablet-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\footer-bottom-width-mobile-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-bottom-width-mobile-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\logo.png",
+      "PackagePath": "staticwebassets\\img\\footer\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\recent-news\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\recent-news\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\recent-news\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\recent-news\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\recent-news\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\footer\\recent-news\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\footer\\title-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer\\title-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\health-care-package-without-sidebar\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\health-care-package-without-sidebar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\health-care-package\\offer-text-bg.png",
+      "PackagePath": "staticwebassets\\img\\health-care-package\\offer-text-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\icon\\close-icon.png",
+      "PackagePath": "staticwebassets\\img\\icon\\close-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\icon\\open-icon.png",
+      "PackagePath": "staticwebassets\\img\\icon\\open-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\icon\\wrench.png",
+      "PackagePath": "staticwebassets\\img\\icon\\wrench.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\app-store.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\google-play.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\google-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\perfect-plan-bg.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\perfect-plan-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\perfect-plan-h3-bg.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\perfect-plan-h3-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\plan-img-bg.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\plan-img-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\plan-img-h3.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\plan-img-h3.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\perfect-plan\\plan-img.png",
+      "PackagePath": "staticwebassets\\img\\perfect-plan\\plan-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\404.png",
+      "PackagePath": "staticwebassets\\img\\resources\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\app-store.png",
+      "PackagePath": "staticwebassets\\img\\resources\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\bmi-bg-f.png",
+      "PackagePath": "staticwebassets\\img\\resources\\bmi-bg-f.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\bmi-bg-m.png",
+      "PackagePath": "staticwebassets\\img\\resources\\bmi-bg-m.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\carousel-button-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\carousel-button-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\cart-page-title-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\cart-page-title-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\resources\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\daily-training-workout.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\daily-training-workout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\dif-kind-class-hover-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\dif-kind-class-hover-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\footer-bg-title.png",
+      "PackagePath": "staticwebassets\\img\\resources\\footer-bg-title.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\gallery-filter-pattern.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\gallery-filter-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\google-map.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\google-map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\google-play.png",
+      "PackagePath": "staticwebassets\\img\\resources\\google-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\h2-footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\h2-footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\header-cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\header-cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\header-cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\header-cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\header-cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\header-cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\header-shape.png",
+      "PackagePath": "staticwebassets\\img\\resources\\header-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\home-banner-1.png",
+      "PackagePath": "staticwebassets\\img\\resources\\home-banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\home-banner-2.png",
+      "PackagePath": "staticwebassets\\img\\resources\\home-banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\i-phone-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\i-phone-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\i-phone.png",
+      "PackagePath": "staticwebassets\\img\\resources\\i-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\icon-dropdown.png",
+      "PackagePath": "staticwebassets\\img\\resources\\icon-dropdown.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\icon-toltip.png",
+      "PackagePath": "staticwebassets\\img\\resources\\icon-toltip.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\icon\\class\\a-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\icon\\class\\a-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\icon\\class\\icon-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\icon\\class\\icon-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\icon\\icon-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\icon\\icon-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\join-now-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\join-now-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\join-now-black-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\join-now-black-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\logo-2.png",
+      "PackagePath": "staticwebassets\\img\\resources\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\logo.png",
+      "PackagePath": "staticwebassets\\img\\resources\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\resources\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\menu-border.png",
+      "PackagePath": "staticwebassets\\img\\resources\\menu-border.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\menu-home-offer.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\menu-home-offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\menu-package-offer.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\menu-package-offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\next-prev-button-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\next-prev-button-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\offer-menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\offer-menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\offer-products-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\offer-products-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\offer-products-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\offer-products-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\offer-products-3.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\offer-products-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\pagination-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\pagination-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\q.png",
+      "PackagePath": "staticwebassets\\img\\resources\\q.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\qoute-icon.png",
+      "PackagePath": "staticwebassets\\img\\resources\\qoute-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\section-title-bg-dark.png",
+      "PackagePath": "staticwebassets\\img\\resources\\section-title-bg-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\section-title-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\section-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\section-title-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\section-title-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\section-title\\bg-2.png",
+      "PackagePath": "staticwebassets\\img\\resources\\section-title\\bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\section-title\\bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\section-title\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\sidebar-title-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\sidebar-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-fitness-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-fitness-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-fitness-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-fitness-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-fitness-3.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-fitness-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-fitness-4.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-fitness-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-package-offera.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-package-offera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-package.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-package.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-workout-1.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-workout-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-workout-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-workout-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-workout-3.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-workout-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\single-workout-4.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\single-workout-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\sort-by-arrow-icon.png",
+      "PackagePath": "staticwebassets\\img\\resources\\sort-by-arrow-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\testi-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\testi-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\testi-thum.png",
+      "PackagePath": "staticwebassets\\img\\resources\\testi-thum.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\black.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\black2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\black2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\curvy-two-way-texture.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\curvy-two-way-texture.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\dots.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\green-gray-curv.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\green-gray-curv.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\hor-curve-green.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\hor-curve-green.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-1.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-2.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-3.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-4.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-5.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\pattern-6.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\pattern-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\sidebar-title.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\sidebar-title.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\strip.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\strip.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\ver-curv-gray.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\ver-curv-gray.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\ver-curv-green.png",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\ver-curv-green.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\texture\\white.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\texture\\white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\video-play.png",
+      "PackagePath": "staticwebassets\\img\\resources\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\resources\\walking-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\resources\\walking-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\bike-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\bike-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\bike-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\bike-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\bike-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\bike-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\card.png",
+      "PackagePath": "staticwebassets\\img\\shop\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\shop\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\review-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\review-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\review-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\review-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\single-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\single-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\single-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\single-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\single-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\1-large.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\1-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\bg.png",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-16.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-17.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-18.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-19.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-20.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v1-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-16.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v2-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-16.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-17.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-18.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-19.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-20.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-21.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-22.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-23.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-24.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v3-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v3-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v4-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v4-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\full-width-v5-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\full-width-v5-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-16.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v1-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v2-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\grid-text-v3-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\grid-text-v3-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\h3-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\h3-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v1-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v2-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-10.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-11.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-12.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-13.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-14.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-15.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-16.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-6.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-7.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-8.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\single-project-item\\masonary-v3-9.jpg",
+      "PackagePath": "staticwebassets\\img\\single-project-item\\masonary-v3-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\1-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\1-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\2-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\3-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\3-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\4-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\4-2.png",
+      "PackagePath": "staticwebassets\\img\\slides\\4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\5-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\5-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\5-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\title-decor.png",
+      "PackagePath": "staticwebassets\\img\\slides\\title-decor.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\title-decor2.png",
+      "PackagePath": "staticwebassets\\img\\slides\\title-decor2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\slides\\woman.png",
+      "PackagePath": "staticwebassets\\img\\slides\\woman.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\subscribe\\bg.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\subscribe\\email-bg.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\email-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\subscribe\\mobile-view-mail-bg.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\mobile-view-mail-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\subscribe\\name-bg.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\name-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\subscribe\\trainers.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\trainers.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\1.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\2.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\3.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\4.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\5.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\6.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\7.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\8.png",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\suppliments-partners\\item-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\suppliments-partners\\item-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\support\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\support\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\support\\img.png",
+      "PackagePath": "staticwebassets\\img\\support\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\team-member\\st-2-1.png",
+      "PackagePath": "staticwebassets\\img\\team-member\\st-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\team-member\\st-2-2.png",
+      "PackagePath": "staticwebassets\\img\\team-member\\st-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\team-member\\st-2-3.png",
+      "PackagePath": "staticwebassets\\img\\team-member\\st-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\testimonials\\1.png",
+      "PackagePath": "staticwebassets\\img\\testimonials\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\testimonials\\2.png",
+      "PackagePath": "staticwebassets\\img\\testimonials\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\video-gallery\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\video-gallery\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\workout-schedules\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\workout-schedules\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\inc\\mailchimp\\MCAPI.class.php",
+      "PackagePath": "staticwebassets\\inc\\mailchimp\\MCAPI.class.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\inc\\mailchimp\\subscribe.php",
+      "PackagePath": "staticwebassets\\inc\\mailchimp\\subscribe.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\inc\\sendemail.php",
+      "PackagePath": "staticwebassets\\inc\\sendemail.php"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\js\\default-map.js",
+      "PackagePath": "staticwebassets\\js\\default-map.js"
+    },
+    {
       "Id": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
