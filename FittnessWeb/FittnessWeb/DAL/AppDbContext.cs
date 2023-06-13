@@ -12,5 +12,10 @@ namespace FittnessWeb.DAL
         }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Service> Services { get; set; }
+        public DbSet<Slider>Sliders { get; set; }   
+        public DbSet<Benefit> Benefits { get; set; }   
+        public DbSet<Package> Packages { get; set; }   
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<PackageTag> PackageTags { get; set; }
     }
 }
