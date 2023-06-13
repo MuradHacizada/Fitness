@@ -1,4 +1,5 @@
-﻿<section class="inner-banner pattern-3">
+﻿@model List<Blog>
+<section class="inner-banner pattern-3">
     <div class="container text-center">
         <h2>Grid View Without Sidebar</h2>
         <p>We offer Fitness & Yoga services since 1996</p>
@@ -16,258 +17,35 @@
 <section class="section-padding has-dynamic-divider blog-v2" data-count-element="3">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-1.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
+            @foreach (Blog blog in Model)
+            {
+                <div class="col-md-4 dynamic-divider-element">
+                    <div class="single-blog-post">
+                        <div class="img-holder">
+                            <img alt="" src="~/img/blog-post/@blog.Image">
+                            <div class="overlay">
+                                <ul>
+                                    <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
+                                    <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="icon-holder">
+                                @Html.Raw(blog.Icon)
+                                <p>Workout Tips</p>
+                            </div>
+                        </div>
+                        <div class="content">
+                            <ul class="meta">
                             </ul>
+                            <a href="blog-details-sidebar.html"><h3>@blog.Title</h3></a>
+                            <p>@blog.Description</p>
+                            <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
                         </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-dumbbell"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>Athlete approved tips to turn your struggles into triumphs</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
                     </div>
                 </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-2.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-scale"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>9 Ways You're Sabotaging Your Fat Loss</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-3.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-flexions"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>Score More: Two Proven Muscle Recovery Tips</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-4.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-gloves"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>5 Ways to Make Your Workout Harder And More Effective!</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-5.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-meter"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>Build An Fit Athletic Body In 10+ Weeks!</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-6.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-skating"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>How to Get Stronger: 5 Rules That Make All The Difference</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-7.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-standing"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>Build Monster Legs With This Workout!</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-8.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-thin"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>10 Best Muscle-Building Biceps Exercises</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4 dynamic-divider-element">
-                <div class="single-blog-post">
-                    <div class="img-holder">
-                        <img alt="" src="~/img/blog-post/page-v2-9.jpg">
-                        <div class="overlay">
-                            <ul>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-link"></i></a></li>
-                                <li><a href="blog-details-sidebar.html"><i class="fa fa-search-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="icon-holder">
-                            <i class="fc-icon ftc-icon-runner"></i>
-                            <p>Workout Tips</p>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <ul class="meta">
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-calendar"></i>04 Jan</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Mano</a></li>
-                            <li><a href="blog-details-sidebar.html"><i class="fa fa-tag"></i>Fitness Tips, Athlete, Jump</a></li>
-                        </ul>
-                        <a href="blog-details-sidebar.html"><h3>Score More: Two Proven Muscle Recovery Tips</h3></a>
-                        <p>In order to transform yourself and create lasting change, you must have a strong. The road to success is littered with adversity and obstacles, and reminding yourself of your why in these moments will help overcome them.</p>
-                        <a class="read-more arrow-push-in-right" href="blog-details-sidebar.html"><span>Read More<i class="fa fa-caret-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-            <!-- /.col-md-4 -->
+                <!-- /.col-md-4 -->
+            }
+            
         </div>
         <!-- /.row -->
         <ul class="post-pagination list-inline text-center">

@@ -1,4 +1,6 @@
-﻿<section class="inner-banner pattern-3">
+﻿@using FittnessWeb.ViewModels;
+@model AboutVM
+<section class="inner-banner pattern-3">
     <div class="container text-center">
         <h2>About us</h2>
         <p>We offer Fitness & Yoga services since 1996</p>
@@ -94,215 +96,29 @@
             <h1><span>Fitness care services</span></h1>
         </div>
         <div class="row">
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-flexions"></i>
+            @foreach (Service service in Model.Services)
+            {
+                <div class="col-md-4">
+                    <div class="single-fitness-service-round-icon square-box">
+                        <div class="icon-box">
+                            @Html.Raw(service.Icon)
+                        </div>
+                        <!-- /.icon-box -->
+                        <h3>@service.Name</h3>
+                        <p>@service.Description </p>
+                        <a href="single-workout.html">Join Now</a>
                     </div>
-                    <!-- /.icon-box -->
-                    <h3>Finess Class</h3>
-                    <p>Fitness Care trainers provide our printable calendars, thats give you the means to stay organized & moti- vated througheach program. </p>
-                    <a href="single-workout.html">Join Now</a>
+                    <!-- /.single-fitness-service-round-icon -->
                 </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-yoga13"></i>
-                    </div>
-                    <!-- /.icon-box -->
-                    <h3>Yoga Class</h3>
-                    <p>No training program is complete solution without a great meal plan. Our Fitness care trainers provide a shopping lists, recipes</p>
-                    <a href="single-workout.html">Join Now</a>
-                </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-weightlifter3"></i>
-                    </div>
-                    <!-- /.icon-box -->
-                    <h3>BodyBuilding</h3>
-                    <p>Fitness Care trainers provide our printable calendars, thats give you the means to stay organized & moti- vated througheach program. </p>
-                    <a href="single-workout.html">Join Now</a>
-                </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-running"></i>
-                    </div>
-                    <!-- /.icon-box -->
-                    <h3>Fat Loss</h3>
-                    <p>Choose your perfect work-out plan and track your workout with the press of a mobile app button, when ever u want. Finess Care up-coming mobile apps</p>
-                    <a href="single-workout.html">Join Now</a>
-                </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-kickboxing"></i>
-                    </div>
-                    <!-- /.icon-box -->
-                    <h3>Boxing Class</h3>
-                    <p>No training program is complete solution without a great meal plan. Our Fitness care trainers provide a shopping lists, recipeseven a great examples</p>
-                    <a href="single-workout.html">Join Now</a>
-                </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
-            <div class="col-md-4">
-                <div class="single-fitness-service-round-icon square-box">
-                    <div class="icon-box">
-                        <i class="fc-icon ftc-icon-musical"></i>
-                    </div>
-                    <!-- /.icon-box -->
-                    <h3>Dance Class</h3>
-                    <p>Fitness Care trainers provide our printable calendars, thats give you the means to stay organized & moti- vated througheach program. </p>
-                    <a href="single-workout.html">Join Now</a>
-                </div>
-                <!-- /.single-fitness-service-round-icon -->
-            </div>
-            <!-- /.col-md-4 -->
+                <!-- /.col-md-4 -->
+            }
+            
         </div>
         <!-- /.row -->
     </div>
     <!-- /.container -->
 </section>
-<!-- /.fitness-service-round-icon -->
-<section class="fitness-team-style-two">
-    <div class="container">
-        <div class="owl-carousel owl-theme">
-            <div class="item">
-                <div class="single-fitness-team-style-two">
-                    <div class="img-box">
-                        <img src="~/img/team-member/st-2-1.png" alt="Awesome Image" />
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <div class="top-box clearfix">
-                                    <div class="left-box pull-left">
-                                        <h3>Ashley Fletcher</h3>
-                                        <p>Yoga Instructor</p>
-                                    </div>
-                                    <!-- /.left-box pull-left -->
-                                    <div class="right-box pull-right">
-                                        <div class="icon-box">
-                                            <i class="fc-icon ftc-icon-yoga13"></i>
-                                        </div>
-                                        <!-- /.icon-box -->
-                                    </div>
-                                    <!-- /.right-box pull-right -->
-                                </div>
-                                <!-- /.top-box -->
-                                <p>Bodybuilders spend years, even decades, perfecting the human form. Now, you may not want to look herculean</p>
-                                <ul class="social-icons">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <!-- /.social-icons -->
-                            </div>
-                            <!-- /.inner-box -->
-                        </div>
-                        <!-- /.overlay -->
-                    </div>
-                    <!-- /.img-box -->
-                </div>
-                <!-- /.single-fitness-team-style-two -->
-            </div>
-            <!-- /.item -->
-            <div class="item">
-                <div class="single-fitness-team-style-two">
-                    <div class="img-box">
-                        <img src="~/img/team-member/st-2-2.png" alt="Awesome Image" />
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <div class="top-box clearfix">
-                                    <div class="left-box pull-left">
-                                        <h3>Ashley Fletcher</h3>
-                                        <p>Yoga Instructor</p>
-                                    </div>
-                                    <!-- /.left-box pull-left -->
-                                    <div class="right-box pull-right">
-                                        <div class="icon-box">
-                                            <i class="fc-icon ftc-icon-yoga13"></i>
-                                        </div>
-                                        <!-- /.icon-box -->
-                                    </div>
-                                    <!-- /.right-box pull-right -->
-                                </div>
-                                <!-- /.top-box -->
-                                <p>Bodybuilders spend years, even decades, perfecting the human form. Now, you may not want to look herculean</p>
-                                <ul class="social-icons">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <!-- /.social-icons -->
-                            </div>
-                            <!-- /.inner-box -->
-                        </div>
-                        <!-- /.overlay -->
-                    </div>
-                    <!-- /.img-box -->
-                </div>
-                <!-- /.single-fitness-team-style-two -->
-            </div>
-            <!-- /.item -->
-            <div class="item">
-                <div class="single-fitness-team-style-two">
-                    <div class="img-box">
-                        <img src="~/img/team-member/st-2-3.png" alt="Awesome Image" />
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <div class="top-box clearfix">
-                                    <div class="left-box pull-left">
-                                        <h3>Ashley Fletcher</h3>
-                                        <p>Yoga Instructor</p>
-                                    </div>
-                                    <!-- /.left-box pull-left -->
-                                    <div class="right-box pull-right">
-                                        <div class="icon-box">
-                                            <i class="fc-icon ftc-icon-yoga13"></i>
-                                        </div>
-                                        <!-- /.icon-box -->
-                                    </div>
-                                    <!-- /.right-box pull-right -->
-                                </div>
-                                <!-- /.top-box -->
-                                <p>Bodybuilders spend years, even decades, perfecting the human form. Now, you may not want to look herculean</p>
-                                <ul class="social-icons">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <!-- /.social-icons -->
-                            </div>
-                            <!-- /.inner-box -->
-                        </div>
-                        <!-- /.overlay -->
-                    </div>
-                    <!-- /.img-box -->
-                </div>
-                <!-- /.single-fitness-team-style-two -->
-            </div>
-            <!-- /.item -->
-        </div>
-        <!-- /.owl-carousel -->
-    </div>
-    <!-- /.container -->
-</section>
+
 <!-- /.fitness-team-style-two -->
 <section class="faq-testimonial-section section-padding">
     <div class="container">

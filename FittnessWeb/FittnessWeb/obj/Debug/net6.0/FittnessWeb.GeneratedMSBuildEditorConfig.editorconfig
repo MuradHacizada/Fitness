@@ -16,8 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Murad\Desktop\Fittness Layihe\FittnessWeb\FittnessWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Areas/Manage/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/About/Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcUHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/About/Trainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVHJhaW5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Blog/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Blog/Index.cshtml]
@@ -26,14 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Event/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Galery/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Murad/Desktop/Fittness Layihe/FittnessWeb/FittnessWeb/Views/Home/Index.cshtml]

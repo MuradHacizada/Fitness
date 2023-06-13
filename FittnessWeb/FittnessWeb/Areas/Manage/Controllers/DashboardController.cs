@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace FittnessWeb.Controllers
+namespace FittnessWeb.Areas.Manage.Controllers
 {
-    public class EventController : Controller
+    public class DashboardController : Controller
     {
         public IActionResult Index()
         {

@@ -1,13 +1,16 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using FittnessWeb.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace FittnessWeb.DAL
 {
-    public class AppDbContext:IdentityDbContext
+    public class AppDbContext:IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
             
         }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Service> Services { get; set; }
     }
 }
