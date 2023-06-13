@@ -194,7 +194,7 @@
                         </div>
                         <div class="caption-text">
                             <p>Your Transformation is our passion. We are your personal trainers, your nutritionist, your supplement expert, your lifting partner, your support group,. We Provide the technology, tools and products you need to burn fat, build muscle, and become your best self.</p>
-                            <a class="thm-btn arrow-push-out-right" href=""><span>Purchase  Now <i class="fa fa-caret-right"></i></span></a>
+                            <a class="thm-btn arrow-push-out-right" asp-controller="Package" asp-action="Index"><span>Purchase  Now <i class="fa fa-caret-right"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -204,22 +204,11 @@
                     <div class="single-footer-widget">
                         <h3 class="title">Quick Links</h3>
                         <ul class="quick-links left">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="blog-v1.html">News & Tips</a></li>
-                            <li><a href="events.html">Events</a></li>
-                            <li><a href="package-v1.html">Our Packages</a></li>
-                            <li><a href="faq.html">FAQ</a></li>
-                            <li><a href="single-shop.html">Shop</a></li>
-                        </ul>
-                        <ul class="quick-links">
-                            <li><a href="single-package.html">Yoga Classes</a></li>
-                            <li><a href="single-package.html">Fitness Classes</a></li>
-                            <li><a href="single-package.html">Body Building</a></li>
-                            <li><a href="single-package.html">Dance Classes</a></li>
-                            <li><a href="single-package.html">Supplements</a></li>
-                            <li><a href="single-package.html">Get offers</a></li>
-                            <li><a href="single-package.html">Customer Care</a></li>
+                            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                            <li><a asp-controller="About" asp-action="Index">About Us</a></li>
+                            <li><a asp-controller="Blog" asp-action="Index">News & Tips</a></li>
+                            <li><a asp-controller="Package" asp-action="Index">Our Packages</a></li>
+                            <li><a asp-controller="Shop" asp-action="Index">Shop</a></li>
                         </ul>
                     </div>
                 </div>

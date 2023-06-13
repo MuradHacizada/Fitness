@@ -21,10 +21,7 @@ namespace FittnessWeb.Controllers
             };
             return View(aboutVM);
         }
-        public IActionResult Pricing()
-        {
-            return View();
-        }
+       
         public IActionResult Trainer()
         {
             return View();
