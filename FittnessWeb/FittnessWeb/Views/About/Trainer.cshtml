@@ -1,4 +1,6 @@
-﻿<section class="inner-banner pattern-3">
+﻿@using FittnessWeb.ViewModels;
+@model AboutVM
+<section class="inner-banner pattern-3">
     <div class="container text-center">
         <h2>Our Trainers</h2>
         <p>We offer Fitness & Yoga services since 1996</p>
@@ -19,214 +21,60 @@
             <h1><span>Our experienced trainers</span></h1>
         </div>
         <div class="row">
-            <!--Start single item-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                <div class="single-item">
-                    <div class="img-holder">
-                        <img src="~/img/experienced-trainer/1.jpg" alt="">
-                        <div class="overlay-content">
-                            <ul>
-                                <li><i class="fa fa-envelope"></i>Support&Healtcare.com</li>
-                                <li><i class="fa fa-phone"></i>0422-2342134</li>
-                                <li><i class="fa fa-cog"></i>Practising : 4+ years</li>
-                            </ul>
-                            <div class="overlay-buttom">
-                                <div class="trainer-name">
-                                    <div class="name pull-left">
-                                        <h3>Stepthen Adams</h3>
-                                        <span>Ceo & Fitness Instructor</span>
+            @foreach (Trainer trainer in Model.Trainers)
+            {
+                <!--Start single item-->
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                    <div class="single-item">
+                        <div class="img-holder">
+                            <img src="~/img/experienced-trainer/@trainer.Image" alt="">
+                            <div class="overlay-content">
+                                <ul>
+                                    <li><i class="fa fa-envelope"></i>@trainer.Email</li>
+                                    <li><i class="fa fa-phone"></i>@trainer.Number</li>
+                                </ul>
+                                <div class="overlay-buttom">
+                                    <div class="trainer-name">
+                                        <div class="name pull-left">
+                                            <h3>@trainer.Name @trainer.Surname</h3>
+                                            <span>@trainer.Position.Name</span>
+                                        </div>
+                                        <div class="icon-holder pull-right">
+                                            <i class="fc-icon ftc-icon-dumbbell"></i>
+                                        </div>
                                     </div>
-                                    <div class="icon-holder pull-right">
-                                        <i class="fc-icon ftc-icon-dumbbell"></i>
-                                    </div>
-                                </div>
-                                <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                                <div class="social-links">
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div class="trainer-name">
-                            <div class="name pull-left">
-                                <h3>Stepthen Adams</h3>
-                                <span>Ceo & Fitness Instructor</span>
-                            </div>
-                            <div class="icon-holder pull-right">
-                                <i class="fc-icon ftc-icon-dumbbell"></i>
-                            </div>
-                        </div>
-                        <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-google-plus"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                <div class="single-item">
-                    <div class="img-holder">
-                        <img src="~/img/experienced-trainer/2.jpg" alt="">
-                        <div class="overlay-content">
-                            <ul>
-                                <li><i class="fa fa-envelope"></i>Support&Healtcare.com</li>
-                                <li><i class="fa fa-phone"></i>0422-2342134</li>
-                                <li><i class="fa fa-cog"></i>Practising : 4+ years</li>
-                            </ul>
-                            <div class="overlay-buttom">
-                                <div class="trainer-name">
-                                    <div class="name pull-left">
-                                        <h3>Ashley Fletcher</h3>
-                                        <span>Fitness & Yoga Instructor</span>
-                                    </div>
-                                    <div class="icon-holder pull-right">
-                                        <i class="fc-icon ftc-icon-yoga13"></i>
+                                    <p>@trainer.Description</p>
+                                    <div class="social-links">
+                                        <a href="@trainer.Facebook"><i class="fa fa-facebook"></i></a>
+                                        <a href="@trainer.Twitter"><i class="fa fa-twitter"></i></a>
+                                        <a href="@trainer.Instagram"><i class="fa fa-instagram"></i></a>
+                                        <a href="@trainer.Youtube"><i class="fa fa-youtube"></i></a>
                                     </div>
                                 </div>
-                                <p>Fitness & Yoga s, but that doesn’t mean you shouldn’t incorporate some bodybuilding principles and workouts into your routine.</p>
-                                <div class="social-links">
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-youtube"></i></a>
+                            </div>
+                        </div>
+                        <div class="content">
+                            <div class="trainer-name">
+                                <div class="name pull-left">
+                                    <h3>@trainer.Name @trainer.Surname</h3>
+                                    <span>@trainer.Position.Name</span>
+                                </div>
+                                <div class="icon-holder pull-right">
+                                    <i class="fc-icon ftc-icon-dumbbell"></i>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div class="trainer-name">
-                            <div class="name pull-left">
-                                <h3>Ashley Fletcher</h3>
-                                <span>Fitness & Yoga Instructor</span>
+                            <p>@trainer.Description</p>
+                            <div class="social-links">
+                                <a href="@trainer.Facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="@trainer.Twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="@trainer.Instagram"><i class="fa fa-instagram"></i></a>
+                                <a href="@trainer.Youtube"><i class="fa fa-youtube"></i></a>
                             </div>
-                            <div class="icon-holder pull-right">
-                                <i class="fc-icon ftc-icon-yoga13"></i>
-                            </div>
-                        </div>
-                        <p>Fitness & Yoga s, but that doesn’t mean you shouldn’t incorporate some bodybuilding principles and workouts into your routine.</p>
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-google-plus"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                <div class="single-item">
-                    <div class="img-holder">
-                        <img src="~/img/experienced-trainer/3.jpg" alt="">
-                        <div class="overlay-content">
-                            <ul>
-                                <li><i class="fa fa-envelope"></i>Support&Healtcare.com</li>
-                                <li><i class="fa fa-phone"></i>0422-2342134</li>
-                                <li><i class="fa fa-cog"></i>Practising : 4+ years</li>
-                            </ul>
-                            <div class="overlay-buttom">
-                                <div class="trainer-name">
-                                    <div class="name pull-left">
-                                        <h3>Ben Johnson</h3>
-                                        <span>Pro Body Builder</span>
-                                    </div>
-                                    <div class="icon-holder pull-right">
-                                        <i class="fc-icon ftc-icon-musculous"></i>
-                                    </div>
-                                </div>
-                                <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                                <div class="social-links">
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div class="trainer-name">
-                            <div class="name pull-left">
-                                <h3>Ben Johnson</h3>
-                                <span>Pro Body Builder</span>
-                            </div>
-                            <div class="icon-holder pull-right">
-                                <i class="fc-icon ftc-icon-musculous"></i>
-                            </div>
-                        </div>
-                        <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-google-plus"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                <div class="single-item">
-                    <div class="img-holder">
-                        <img src="~/img/experienced-trainer/4.jpg" alt="">
-                        <div class="overlay-content">
-                            <ul>
-                                <li><i class="fa fa-envelope"></i>Support&Healtcare.com</li>
-                                <li><i class="fa fa-phone"></i>0422-2342134</li>
-                                <li><i class="fa fa-cog"></i>Practising : 4+ years</li>
-                            </ul>
-                            <div class="overlay-buttom">
-                                <div class="trainer-name">
-                                    <div class="name pull-left">
-                                        <h3>Rebecca Garza</h3>
-                                        <span>Fitness & Body Builder</span>
-                                    </div>
-                                    <div class="icon-holder pull-right">
-                                        <i class="fc-icon ftc-icon-weightlifter3"></i>
-                                    </div>
-                                </div>
-                                <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                                <div class="social-links">
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div class="trainer-name">
-                            <div class="name pull-left">
-                                <h3>Rebecca Garza</h3>
-                                <span>Fitness & Body Builder</span>
-                            </div>
-                            <div class="icon-holder pull-right">
-                                <i class="fc-icon ftc-icon-weightlifter3"></i>
-                            </div>
-                        </div>
-                        <p>Fitness & Body builders spend years, even decades, perfecting the human form. Now, you may not want into your routine.</p>
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-google-plus"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
+                <!--End single item-->
+            }
         </div>
     </div>
 </section>

@@ -38,9 +38,9 @@
                             <div class="package-list">
                                 <h4>Package Includes:</h4>
                                 <ul>
-                                    @foreach (PackageTag packageTag in Model)
+                                    @foreach (PackageTag packageTag in package.PackageTags)
                                     {
-                                        <li><i class="fa fa-check"></i>@package.Name</li>
+                                        <li><i class="fa fa-check"></i>@packageTag.Tag.Name</li>
                                     }
                                 </ul>
                             </div>

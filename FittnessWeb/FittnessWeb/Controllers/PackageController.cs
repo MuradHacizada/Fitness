@@ -12,10 +12,10 @@ namespace FittnessWeb.Controllers
         {
             _db = db;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            Package package = _db.Packages.Include(p => p.PackageTags).ThenInclude(pt => pt.Tag).FirstOrDefault();
-            return View(package);
+            List<Package> packages = await _db.Packages.Include(p => p.PackageTags).ThenInclude(pt => pt.Tag).ToListAsync();
+            return View(packages);
         }
         public IActionResult Pricing()
         {

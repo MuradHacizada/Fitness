@@ -17,5 +17,7 @@ namespace FittnessWeb.DAL
         public DbSet<Package> Packages { get; set; }   
         public DbSet<Tag> Tags { get; set; }
         public DbSet<PackageTag> PackageTags { get; set; }
+        public DbSet<Position> Positions { get; set; }
+        public DbSet<Trainer> Trainers { get; set; }
     }
 }

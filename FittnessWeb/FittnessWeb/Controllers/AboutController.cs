@@ -22,9 +22,13 @@ namespace FittnessWeb.Controllers
             return View(aboutVM);
         }
        
-        public IActionResult Trainer()
+        public async Task<IActionResult> Trainer()
         {
-            return View();
+            AboutVM aboutVM = new AboutVM()
+            {
+                Trainers=await _db.Trainers.Include(p=>p.Position).ToListAsync()
+            };
+            return View(aboutVM);
         }
         public IActionResult Pricing()
         {

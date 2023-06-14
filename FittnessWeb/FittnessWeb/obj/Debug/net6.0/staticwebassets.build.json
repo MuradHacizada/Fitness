@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BCCN3t07Voc6gfIaY/pJ74O69sLzLhTOGaASmFH+nBM=",
+  "Hash": "Hfcb7dfRKjlxQ8v7lQatKpdm3ZFihNFTs6eB4S4kTV0=",
   "Source": "FittnessWeb",
   "BasePath": "_content/FittnessWeb",
   "Mode": "Default",
@@ -9231,12 +9231,12 @@
       "OriginalItemSpec": "wwwroot\\img\\class\\popular-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\1.jpg",
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\Islam.jpg",
       "SourceId": "FittnessWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
       "BasePath": "_content/FittnessWeb",
-      "RelativePath": "img/experienced-trainer/1.jpg",
+      "RelativePath": "img/experienced-trainer/Islam.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9245,15 +9245,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\Islam.jpg"
     },
     {
-      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\2.jpg",
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\Murad.jpg",
       "SourceId": "FittnessWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
       "BasePath": "_content/FittnessWeb",
-      "RelativePath": "img/experienced-trainer/2.jpg",
+      "RelativePath": "img/experienced-trainer/Murad.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9262,15 +9262,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\Murad.jpg"
     },
     {
-      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\3.jpg",
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\Nergiz.jpg",
       "SourceId": "FittnessWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
       "BasePath": "_content/FittnessWeb",
-      "RelativePath": "img/experienced-trainer/3.jpg",
+      "RelativePath": "img/experienced-trainer/Nergiz.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9279,15 +9279,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\Nergiz.jpg"
     },
     {
-      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\4.jpg",
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\experienced-trainer\\Sudabe.jpg",
       "SourceId": "FittnessWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
       "BasePath": "_content/FittnessWeb",
-      "RelativePath": "img/experienced-trainer/4.jpg",
+      "RelativePath": "img/experienced-trainer/Sudabe.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9296,7 +9296,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\experienced-trainer\\Sudabe.jpg"
     },
     {
       "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\favicon-icons\\android-icon-144x144.png",
