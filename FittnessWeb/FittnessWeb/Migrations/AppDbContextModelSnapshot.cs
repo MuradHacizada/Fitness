@@ -95,6 +95,42 @@ namespace FittnessWeb.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("FittnessWeb.Models.BasketItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("AppUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Count")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("OrderId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AppUserId")
+                        .IsUnique();
+
+                    b.HasIndex("OrderId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("BasketItems");
+                });
+
             modelBuilder.Entity("FittnessWeb.Models.Benefit", b =>
                 {
                     b.Property<int>("Id")
@@ -146,6 +182,103 @@ namespace FittnessWeb.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Blogs");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categories");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.CategoryProduct", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("CategoryProducts");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("AppUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AppUserId");
+
+                    b.ToTable("Comments");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Order", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AppUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("PurchasedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool?>("Status")
+                        .HasColumnType("bit");
+
+                    b.Property<decimal>("TotalPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AppUserId");
+
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("FittnessWeb.Models.Package", b =>
@@ -213,6 +346,87 @@ namespace FittnessWeb.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Positions");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("Count")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("DiscPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Rate")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.ProductComment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CommentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CommentId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductComments");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.ProductImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("FittnessWeb.Models.Service", b =>
@@ -467,6 +681,72 @@ namespace FittnessWeb.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("FittnessWeb.Models.BasketItem", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.AppUser", "AppUser")
+                        .WithOne("Basket")
+                        .HasForeignKey("FittnessWeb.Models.BasketItem", "AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("FittnessWeb.Models.Order", "Order")
+                        .WithMany("BasketItems")
+                        .HasForeignKey("OrderId");
+
+                    b.HasOne("FittnessWeb.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppUser");
+
+                    b.Navigation("Order");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.CategoryProduct", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.Category", "Category")
+                        .WithMany("CategoryProducts")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("FittnessWeb.Models.Product", "Product")
+                        .WithMany("CategoryProducts")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Comment", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.AppUser", "AppUser")
+                        .WithMany("Comments")
+                        .HasForeignKey("AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppUser");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Order", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.AppUser", "AppUser")
+                        .WithMany()
+                        .HasForeignKey("AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppUser");
+                });
+
             modelBuilder.Entity("FittnessWeb.Models.PackageTag", b =>
                 {
                     b.HasOne("FittnessWeb.Models.Package", "Package")
@@ -484,6 +764,34 @@ namespace FittnessWeb.Migrations
                     b.Navigation("Package");
 
                     b.Navigation("Tag");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.ProductComment", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.Comment", "Comment")
+                        .WithMany("ProductComments")
+                        .HasForeignKey("CommentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("FittnessWeb.Models.Product", "Product")
+                        .WithMany("ProductComments")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Comment");
+
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.ProductImage", b =>
+                {
+                    b.HasOne("FittnessWeb.Models.Product", null)
+                        .WithMany("ProductImages")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("FittnessWeb.Models.Trainer", b =>
@@ -548,6 +856,29 @@ namespace FittnessWeb.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("FittnessWeb.Models.AppUser", b =>
+                {
+                    b.Navigation("Basket")
+                        .IsRequired();
+
+                    b.Navigation("Comments");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Category", b =>
+                {
+                    b.Navigation("CategoryProducts");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Comment", b =>
+                {
+                    b.Navigation("ProductComments");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Order", b =>
+                {
+                    b.Navigation("BasketItems");
+                });
+
             modelBuilder.Entity("FittnessWeb.Models.Package", b =>
                 {
                     b.Navigation("PackageTags");
@@ -556,6 +887,15 @@ namespace FittnessWeb.Migrations
             modelBuilder.Entity("FittnessWeb.Models.Position", b =>
                 {
                     b.Navigation("Trainers");
+                });
+
+            modelBuilder.Entity("FittnessWeb.Models.Product", b =>
+                {
+                    b.Navigation("CategoryProducts");
+
+                    b.Navigation("ProductComments");
+
+                    b.Navigation("ProductImages");
                 });
 
             modelBuilder.Entity("FittnessWeb.Models.Tag", b =>

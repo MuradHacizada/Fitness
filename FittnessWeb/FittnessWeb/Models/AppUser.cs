@@ -6,5 +6,7 @@ namespace FittnessWeb.Models
     {
         public string Name { get; set; }
         public string Surname { get; set; }
+        public BasketItem Basket { get; set; }
+        public ICollection<Comment> Comments { get; set; }
     }
 }
