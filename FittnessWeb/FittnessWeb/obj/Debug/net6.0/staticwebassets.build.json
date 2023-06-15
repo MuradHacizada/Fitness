@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8GXeI+H3kDGMMB2tqAAI8qbx7OH7aGjSv2PdTFe/MH0=",
+  "Hash": "qQyVCwgukqGkHk+MyWALN3rnwAst/eJGGVTSjXhH4fA=",
   "Source": "FittnessWeb",
   "BasePath": "_content/FittnessWeb",
   "Mode": "Default",
@@ -15759,6 +15759,23 @@
       "OriginalItemSpec": "wwwroot\\img\\shop\\3.jpg"
     },
     {
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\34887f6f-9421-4c01-853c-1ddbc6ecb1371-33.jpg",
+      "SourceId": "FittnessWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
+      "BasePath": "_content/FittnessWeb",
+      "RelativePath": "img/shop/34887f6f-9421-4c01-853c-1ddbc6ecb1371-33.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\shop\\34887f6f-9421-4c01-853c-1ddbc6ecb1371-33.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\4.jpg",
       "SourceId": "FittnessWeb",
       "SourceType": "Discovered",
@@ -15791,6 +15808,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\shop\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\569f2a1a-953f-4b4a-aa05-3e34d585a5611-11.jpg",
+      "SourceId": "FittnessWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
+      "BasePath": "_content/FittnessWeb",
+      "RelativePath": "img/shop/569f2a1a-953f-4b4a-aa05-3e34d585a5611-11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\shop\\569f2a1a-953f-4b4a-aa05-3e34d585a5611-11.jpg"
     },
     {
       "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\6.jpg",
@@ -15842,6 +15876,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\shop\\8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\8a110ef4-9ae6-4d08-a32f-6db8879a97b11-22.jpg",
+      "SourceId": "FittnessWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
+      "BasePath": "_content/FittnessWeb",
+      "RelativePath": "img/shop/8a110ef4-9ae6-4d08-a32f-6db8879a97b11-22.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\shop\\8a110ef4-9ae6-4d08-a32f-6db8879a97b11-22.jpg"
     },
     {
       "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\9.jpg",
@@ -15927,6 +15978,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\shop\\card.png"
+    },
+    {
+      "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\ea71f281-951f-46ec-b77a-82a50e0d87f6trainers.jpg",
+      "SourceId": "FittnessWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\",
+      "BasePath": "_content/FittnessWeb",
+      "RelativePath": "img/shop/ea71f281-951f-46ec-b77a-82a50e0d87f6trainers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\shop\\ea71f281-951f-46ec-b77a-82a50e0d87f6trainers.jpg"
     },
     {
       "Identity": "C:\\Users\\Murad\\Desktop\\Fittness Layihe\\FittnessWeb\\FittnessWeb\\wwwroot\\img\\shop\\paypal.png",
